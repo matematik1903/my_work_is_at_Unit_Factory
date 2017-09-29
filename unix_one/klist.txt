@@ -1,0 +1,5 @@
+Credentials cache: API:5326
+        Principal: brozhko@UNIT.UA
+
+  Issued                Expires               Principal
+Aug 21 17:02:32 2017  Aug 22 03:02:14 2017  krbtgt/UNIT.UA@UNIT.UA

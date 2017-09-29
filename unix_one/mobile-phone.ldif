@@ -1,0 +1,4 @@
+dn:uid=brozhko,ou=august,ou=2017,ou=people,dc=unit,dc=ua
+changetype: modify
+add: mobile
+mobile: 0977007842
